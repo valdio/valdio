@@ -1,6 +1,8 @@
 
-![Valdio's GitHub stats](https://github-readme-stats.vercel.app/api?username=valdio&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark)
 
+
+| ![Valdio's GitHub stats](https://github-readme-stats.vercel.app/api?username=valdio&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark) |  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valdio&layout=compact)](https://github.com/ilirhushi/github-readme-stats) |
+| - | - |
 
 <!--
 **valdio/valdio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
