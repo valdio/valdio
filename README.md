@@ -1,6 +1,11 @@
+[![trophy](https://github-profile-trophy.vercel.app/?username=valdio&theme=algolia&column=4&no-bg=true&no-frame=true&margin-h=10)](https://github.com/valdio/)
+
 ![Valdio's GitHub stats](https://github-readme-stats.vercel.app/api?username=valdio&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valdio&layout=compact&theme=github_dark)](https://github.com/valdio/github-readme-stats) 
+
+
+
 
 <!--
 **valdio/valdio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
